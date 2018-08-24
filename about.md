@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+SDE at WalmartLabs India
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mksinha1994@gmail.com](mailto:mksinha1994@gmail.com)

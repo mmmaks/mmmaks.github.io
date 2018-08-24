@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5902c8a7-8bfc-4723-92b0-f936d885cf2e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-3-3-Hello-World.md" afterPath="$PROJECT_DIR$/_posts/Hello-World.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-08-24-XGBoost.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-08-24-XGBoost.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-08-24-XGBoost.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="319">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -83,6 +93,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2018-08-24-LightGBM.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-24-XGBoost.md" />
+        <option value="$PROJECT_DIR$/about.md" />
       </list>
     </option>
   </component>
@@ -332,8 +343,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-24-XGBoost.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        <state relative-caret-position="319">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding />
         </state>
       </provider>
