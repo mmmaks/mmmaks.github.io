@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Model evaluation error metrics!
+title: Model evaluation error metrics
 ---
 
 ## Confusion matrix
