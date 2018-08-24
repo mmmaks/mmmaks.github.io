@@ -16,6 +16,6 @@ Sigmoid function is used when we need to predict the probability as an output.
 
 This is like sigmoid but values ranges from -1 to 1.
 
-![_config.yml]({{ site.baseurl }}/images/sigmoid.jpeg)
+![_config.yml]({{ site.baseurl }}/images/sigmoid.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
