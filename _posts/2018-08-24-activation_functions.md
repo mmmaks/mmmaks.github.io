@@ -26,4 +26,8 @@ This function make value 0 for negative values and z for values(z) more than or 
 
 ![_config.yml]({{ site.baseurl }}/images/ReLU.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Leaky ReLU (Rectified Linear Unit) Activation Function
+
+This does not make z 0 when it isnegative rather keep it as very small negative value
+
+![_config.yml]({{ site.baseurl }}/images/Leaky-ReLU.jpeg)
